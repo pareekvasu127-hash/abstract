@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    height: 80px;
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+
+}
+.nav-first{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.logoicon{
+    height: 50px;
+    width: 50px;
+}
+.text{
+    color: white;
+    margin-top: 0px;
+    text-align: right;
+}
+.nav-second{
+    margin-top: 0px;
+    padding: 0px;
+}
+.submit-button{
+    margin-top: 0px;
+    padding: 0px;
+    background-color: rgba(35, 33, 33, 0.808);
+    color:white;
+}
+.sign-up{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(24, 92, 188);
+    color: white;
+    border-radius: 2px;
+    height: 25px;
+    width: 50px;
+    
+}
+.first-section{
+    text-align: center;
+    background-color: rgba(218,219,255);
+    height: 200px;
+    padding: 50PX;
+}
+.main-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400px;
+    padding-bottom: 20px;
+}
+input{
+    width: 300px;
+    padding: 5px;
+    box-shadow: rgba(28, 27, 27, 0.687) 10px 10px 40px;
+    border: 2px;
+    padding: 10px 10px;
+}
+.services{
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.first-contener{
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+}
+.service{
+    display: flex;
+    gap:10px;
+    width: 400px;
+}
+.service-icon{
+    height: 60px;
+}
+.service-heading{
+    font-size: 20px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifS;
+    font-weight: 700px;
+}
+.service-info{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 700px
+}
+
+
+.logoicon{
+    height: 50px;
+    width: 50px;
+}
+.text{
+    color: white;
+    margin-top: 0px;
+    text-align: right;
+}
+.nav-second{
+    margin-top: 0px;
+    padding: 0px;
+}
+.submit-button{
+    margin-top: 0px;
+    padding: 0px;
+    background-color: rgba(35, 33, 33, 0.808);
+    color:white;
+}
+.sign-up{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(24, 92, 188);
+    color: white;
+    border-radius: 2px;
+    height: 25px;
+    width: 50px;
+    
+}
+.first-section{
+    text-align: center;
+    background-color: rgba(218,219,255);
+    height: 200px;
+    padding: 50PX;
+}
+.main-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400px;
+    padding-bottom: 20px;
+}
+input{
+    width: 300px;
+    padding: 5px;
+    box-shadow: rgba(28, 27, 27, 0.687) 10px 10px 40px;
+    border: 2px;
+    padding: 10px 10px;
+}
+.services{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 0px;
+}
+.first-contener{
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+    height: 20px;
+    margin-top: 0;
+}
+.service{
+    display: flex;
+    gap:10px;
+    width: 400px;
+}
+.service-icon{
+    height: 70px;
+}
+.service-heading{
+    font-size: 20px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifS;
+    font-weight: 700px;
+}
+.service-info{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 700px
+}
+.All{
+    margin-top: 10px;
+    height: 50px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 450px;
+    background-color: black;
+    color: white;
+}
